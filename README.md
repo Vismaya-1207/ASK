@@ -5,6 +5,7 @@
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
 # Tools required
 1.Personal Computer
+
 2.Google Colab
 
 # Program
@@ -144,7 +145,6 @@ plt.show()
 # ASK
 
 
-# FSK
 
 
 
